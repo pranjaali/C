@@ -1,7 +1,7 @@
 # C
 all c programs for practice
 // Check whether the given number is amstrong or not
-
+// A number is thought of as an Armstrong number if the sum of its own digits raised to the power number of digits gives the number itself
 #include<stdio.h>
 // ------------------------
 // function takes the number and returns the count of number of digits of given number:
